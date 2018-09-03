@@ -2,7 +2,6 @@
 using System.Windows.Media.Media3D;
 using Xbim.Ifc;
 using Xbim.ModelGeometry.Scene;
-
 namespace Xbim.Presentation
 {
     public class WpfMaterial : IXbimRenderMaterial

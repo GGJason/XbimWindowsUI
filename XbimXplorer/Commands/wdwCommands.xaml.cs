@@ -160,7 +160,7 @@ namespace XbimXplorer.Commands
                         // todo: bonghi: open the model in xplorer if needed.
                         var xp = new XplorerMainWindow();
                         _parentWindow = xp;
-                        xp.Show();
+                        //xp.Show();
                     }
                     continue;
                 }
@@ -1512,7 +1512,8 @@ namespace XbimXplorer.Commands
             {
                 propLabel = pe.EntityLabel;
                 retIds.Add(pe.EntityLabel);
-                pe.Activate(false);
+                /// Update By GGJason
+               // pe.Activate(false);
             }
             var ret = propVal.ToString();
             if (ret == propVal.GetType().FullName)

@@ -18,6 +18,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Media.Media3D;
 using System.Windows.Threading;
+//using HShaprDX = HelixToolkit.Wpf.SharpDX;
 using HelixToolkit.Wpf;
 using Xbim.Common;
 using Xbim.Common.Federation;
