@@ -29,3 +29,6 @@ Xbim.Presentation is the home of the XbimXplorer application and of a number of 
 The XbimTeam wishes to thank [JetBrains](https://www.jetbrains.com/) for supporting the XbimToolkit project with free open source [Resharper](https://www.jetbrains.com/resharper/) licenses.
 
 ![ReSharper Logo](ReadmeResources/icon_ReSharper.png)
+
+## Contribution Information
+Upgrade to Helix-toolkit WPF SharpDX by GGJason(ggjason.tw@gmail.com, jasonwu@webim.com.tw) @ [WeBIM Service CO., LTD.](https://webim.com.tw)
